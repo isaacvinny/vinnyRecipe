@@ -108,7 +108,7 @@ This project is available for educational and personal use.
 Frontend Developer passionate about building responsive and user-friendly web applications.
 
 * GitHub: [@isaacvinny](https://github.com/isaacvinny)
-* Portfolio: [[Isaac Vincent](https://isaacvinny.github.io/my-portfolio/)
+* Portfolio: [Isaac Vincent](https://isaacvinny.github.io/my-portfolio/)
 * LinkedIn: [Isaac Vincent](www.linkedin.com/in/isaac-vincent-b2214119a)
 
 ---

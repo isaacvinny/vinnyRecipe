@@ -109,7 +109,7 @@ Frontend Developer passionate about building responsive and user-friendly web ap
 
 * GitHub: [@isaacvinny](https://github.com/isaacvinny)
 * Portfolio: [Add your portfolio link]
-* LinkedIn: [Add your LinkedIn profile]
+* LinkedIn: [@Isaac Vincent(www.linkedin.com/in/isaac-vincent-b2214119a)]
 
 ---
 
